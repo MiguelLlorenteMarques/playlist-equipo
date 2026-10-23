@@ -1,8 +1,10 @@
 {
-  "nombre": "Playlist de clase",
-  "genero": "indie",
+  "nombre": "Playlist de Miguel",
+  "genero": "Rock",
   "canciones": [
-    "Canción 1",
-    "Canción 2"
+    "Canción 1 cambiada",
+    "Canción 2",
+    "Canción 3",
+    "Canción 4"
   ]
 }
